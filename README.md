@@ -1,0 +1,2 @@
+# adelet
+Harakete gecmek
